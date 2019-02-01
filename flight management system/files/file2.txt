@@ -1,0 +1,48 @@
+
+The flight name is : FlightSuper
+You come from : Toronto station
+You are going to : London station
+The time of departure is : Sat Dec 22 16:44:56 2018
+ The time to arrival is : 8 hours 
+The landing time is : Sat Dec 22 16:45:22 2018
+
+The staf member are :
+Othmane
+Joe
+The passengers are :
+Carl
+Stefane
+Carole
+Britney
+Sousane
+Soulking
+Adil
+Salah
+Farid
+Sarah
+
+
+
+The flight name is : Flight Two
+You come from : New York station
+You are going to : Casa Blanca station
+The time of departure is : Sat Dec 22 17:34:20 2018
+ The time to arrival is : 8 hours 
+The landing time is : Sat Dec 22 17:35:08 2018
+
+The staf member are :
+Captain 
+oe
+Jessica
+The passengers are :
+Carl
+Stefane
+Carole
+Britney
+Sousane
+Soulking
+Adil
+Salah
+Farid
+Sarah
+
